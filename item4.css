@@ -69,6 +69,9 @@ span{
     font-weight: bolder;
     font-size: larger;
 }
+#myspan{
+    cursor: pointer;
+}
 button{
     margin-bottom: 10px;
     padding: 5px 10px;
@@ -78,6 +81,9 @@ button{
     border: 1px solid black;
     font-weight: bolder;
 
+}
+button:hover{
+    cursor: pointer;
 }
 
 table{
