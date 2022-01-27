@@ -40,6 +40,10 @@ header ul li a{
     font-weight: 800;
     text-transform: uppercase;
 }
+header ul li a:hover{
+    background-color: black;
+    color:white;
+}
 
 img{
     width: 50%;
